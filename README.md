@@ -1,4 +1,4 @@
-# Enough
+# SMS BOMBER
 
 [![Github Stars](https://img.shields.io/github/stars/Ignorez/smsbomber)]()
 [![Github Forks](https://img.shields.io/github/forks/Ignorez/smsbomber)]()
